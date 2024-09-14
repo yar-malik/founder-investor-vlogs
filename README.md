@@ -1,7 +1,7 @@
 # Founder/Entrepreneur Vlogs
 
 
-- **Yar Malik** [Link to YouTube](https://www.youtube.com/@YarMalikHere) - Founder Vlog
+- **Yar Malik** [Link to YouTube](https://www.youtube.com/@YarMalikHere/videos) - Founder Vlog
 - **Daniel Dalen** [Link to YouTube](https://www.youtube.com/@danieldalen) - Founder Vlog
 - **Jacob Sucks At Code** [Link to YouTube](https://www.youtube.com/watch?v=9v7BTACZaKM) - Founder Vlog
 - **Rudy** [Link to YouTube](https://www.youtube.com/@rudy7073) - Founder Vlog
