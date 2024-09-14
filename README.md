@@ -1,10 +1,5 @@
 # Founder/Entrepreneur Vlogs
 
-## Introduction
-This document contains a list of vlogs by various founders and entrepreneurs. These vlogs offer valuable insights into their journeys, challenges, and successes.
-
-## Vlog List
-
 #### Yar Malik [Link to YouTube](https://www.youtube.com/@YarMalikHere)
 - **Description:** Founder Vlog
 
@@ -16,6 +11,9 @@ This document contains a list of vlogs by various founders and entrepreneurs. Th
 
 #### Rudy [Link to YouTube](https://www.youtube.com/@rudy7073)
 - **Description:** Founder Vlog
+
+
+
 
 ## How to Use This List
 - Explore these vlogs to gain inspiration and insights from successful founders.
