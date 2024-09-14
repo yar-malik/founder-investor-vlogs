@@ -1,9 +1,9 @@
 # Founder/Entrepreneur Vlogs
 
-- **Yar Malik** <a href="https://www.youtube.com/@YarMalikHere/videos" target="_blank">Link to YouTube</a> - Founder Vlog
-- **Daniel Dalen** <a href="https://www.youtube.com/@danieldalen" target="_blank">Link to YouTube</a> - Founder Vlog
-- **Jacob Sucks At Code** <a href="https://www.youtube.com/watch?v=9v7BTACZaKM" target="_blank">Link to YouTube</a> - Founder Vlog
-- **Rudy** <a href="https://www.youtube.com/@rudy7073" target="_blank">Link to YouTube</a> - Founder Vlog
+- **Yar Malik** [Link to YouTube](https://www.youtube.com/@YarMalikHere/videos) - Founder Vlog
+- **Daniel Dalen** [Link to YouTube](https://www.youtube.com/@danieldalen) - Founder Vlog
+- **Jacob Sucks At Code** [Link to YouTube](https://www.youtube.com/watch?v=9v7BTACZaKM) - Founder Vlog
+- **Rudy** [Link to YouTube](https://www.youtube.com/@rudy7073) - Founder Vlog
 
 ## How to Use This List
 - Explore these vlogs to gain inspiration and insights from successful founders.
