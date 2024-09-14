@@ -12,9 +12,10 @@ This document contains a list of vlogs by various founders and entrepreneurs. Th
 - **Description:** Founder Vlog 
 
 ### [Jacob Sucks At Code](https://www.youtube.com/watch?v=9v7BTACZaKM)
-- **Description:** 
+- **Description:** Founder Vlog 
 
 ### [Rudy](https://www.youtube.com/@rudy7073)
+- **Description:** Founder Vlog 
 
 ## How to Use This List
 - Explore these vlogs to find out the best founder vlogs and take inspiration 
